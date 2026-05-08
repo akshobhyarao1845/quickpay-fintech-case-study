@@ -1,0 +1,7 @@
+transaction_id,issue,ledger_amount,gateway_amount,ledger_status,gateway_status
+R004,missing_in_gateway,2100.0,,success,
+R010,missing_in_gateway,2500.0,,success,
+R011,missing_in_ledger,,1800.0,,success
+R002,amount_mismatch,850.0,900.0,success,success
+R008,amount_mismatch,640.0,600.0,success,success
+R005,status_mismatch,7200.0,7200.0,success,failed

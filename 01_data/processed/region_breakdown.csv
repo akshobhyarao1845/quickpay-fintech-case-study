@@ -1,0 +1,4 @@
+gateway_region,total_transactions,total_gmv_usd,captured_gmv_usd,avg_risk_score,chargeback_count,high_risk_count
+APAC,22,82594.0,63415.5,65.48,2,7
+EU,4,18886.0,8640.0,47.25,1,1
+US,4,14600.0,10300.0,48.75,1,1

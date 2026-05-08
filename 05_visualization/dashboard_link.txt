@@ -1,0 +1,13 @@
+# Paste your Looker Studio public dashboard link below
+# Instructions:
+# 1. Go to Looker Studio (https://lookerstudio.google.com)
+# 2. Upload the 4 processed CSVs as Google Sheets or direct CSV data sources:
+#    - 01_data/processed/daily_summary.csv
+#    - 01_data/processed/payment_method_breakdown.csv
+#    - 01_data/processed/region_breakdown.csv
+#    - 01_data/processed/merchant_performance_summary.csv
+# 3. Build the dashboard with the required components
+# 4. Click Share > Manage access > Anyone with link can view
+# 5. Replace the placeholder below with the actual public link
+
+https://lookerstudio.google.com/reporting/YOUR-DASHBOARD-ID-HERE
