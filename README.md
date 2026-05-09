@@ -4,8 +4,7 @@
 
 | Field | Details |
 |---|---|
-| Student Name | [Your Name] |
-| Student ID | [Your Student ID] |
+| Student Name | Akshobhya Rao A P |
 | Public GitHub Repository | [https://github.com/yourusername/quickpay-fintech] |
 
 ---
